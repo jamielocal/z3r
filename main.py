@@ -33,4 +33,5 @@ async def on_ready():
         print(f'- {cog}')
 
 # Start the bot with your token
-bot.run('MTI3NjEwMzM2NDgxMTE2MTYzMA.G54h11.5IQU4H_fqwW4csA0X1ZTkDLNs0YhSjiNa21dZk')
+bot.run('YOUR TOKEN HERE')
+# Thanks Github For Saving My ass when i put my own token in here and almost left it in on push :cry:
